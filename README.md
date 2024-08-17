@@ -1,0 +1,1 @@
+# autosync-supernote-to-obsidian
